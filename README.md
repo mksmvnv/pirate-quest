@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    <img src="./assets/structia.jpg" />
+    <img src="./assets/main_pic.png" />
 </p>
 
 <h2>Description</h2>
